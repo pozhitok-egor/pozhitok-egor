@@ -1,6 +1,6 @@
 ## 👋 Hello there. My name is Pozhitok Egor
 
-I am graduate student from the Belarusian State University of Informatics and Radioelectronics. I'm looking for full-time opportunities.
+I graduated from the Belarusian State University of Informatics and Radioelectronics. I'm looking for full-time opportunities.
 
 You can view my resume [here](https://pozhitok-egor.github.io/cv/).
 
