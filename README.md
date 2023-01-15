@@ -12,6 +12,8 @@ I am experienced web developer based in Warsaw, Poland. Have 2+ years of experie
 - 🌱 I’m currently learning `React Native`
 - 🔎 I'm looking for a job as a `React | React Native developer`
 
+[***🔗 My resume***](https://pozhitok-egor.github.io/cv)
+
 ## Summary
 
 - Graduated from the Belarusian State University of Informatics and Radioelectronics as Engineer.
@@ -24,13 +26,33 @@ I am experienced web developer based in Warsaw, Poland. Have 2+ years of experie
 
 ## Work experience
 
-**Software Engineer** [**EPAM Systems**](https://www.epam.com/) (Nov 2021 - Present)<br>
-<sub>American company that specializes in service development, digital platform engineering, and digital product design</sub>
-- Participated in the development of several products. Used technologies: React, redux, TypeScript
+⏳️ Nov 2021 - Present</br>
+💼 **Software Engineer**</br>
+🏢 [***EPAM Systems***](https://www.epam.com/)</br>
+ℹ️ <sub>American company that specializes in service development, digital platform engineering, and digital product design</sub>
+- Developed features using TypeScript and JavaScript
+- Developed applications using React and Angular
+- Implemented state logic using Redux, Redux toolkit, RxJS
+- Wrote unit and integration tests with Jest, react testing library, Karma, and Jasmine
+- Implemented application analytics
+- Styled applications using SCSS, CSS, Styled-components
+- Participated in bug fixing and projects support
+- Collaborated with project members and customers
 
-**Freelancer** (Aug 2019 - Nov 2021)
-- Designed several web applications according to the customer's expectations. 
-- Developed and maintained HTML, CSS and JavaScript code, incorporated and maintained Next framework aiming to manage customer’s front-end assets ensuring low latency and cross-browser compatibility.
+⏳️ Mar 2021 - May 2021</br>
+💼 **Freelance Developer**</br>
+🏢 ***AlterFood***</br>
+- Developed application using Next.js
+- Implemented internationalization and contact forms API
+- Implemented application analytics
+- Fixed bugs and participating in projects support
+
+⏳️ Jul 2020 - Jan 2021</br>
+💼 **Freelance Developer**</br>
+🏢 ***Bar Kafedra***</br>
+- Developed application using HTML, SASS, JS and webpack
+- Implemented contact forms API
+- Fixed bugs and participated in projects support
 
 ## Skills
   ![TypeScript](https://img.shields.io/badge/TypeScript-272838?style=for-the-badge&logo=TypeScript)
