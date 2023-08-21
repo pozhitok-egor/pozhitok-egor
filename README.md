@@ -8,7 +8,7 @@ I am experienced web developer based in Warsaw, Poland. Have 2+ years of experie
 [![Facebook](https://img.shields.io/badge/Facebook-272838?style=for-the-badge&logo=Facebook)](https://www.facebook.com/pozhitok.e)
 [![Twitter](https://img.shields.io/badge/Twitter-272838?style=for-the-badge&logo=Twitter)](https://twitter.com/pozhit_ok)
 
-- 🔭 I’m currently working on `Personal Project`
+- 🔭 I’m currently working on [Valetax](https://valetax.com/)
 - 🌱 I’m currently learning `React Native`
 - 🔎 I'm looking for a job as a `React | React Native developer`
 
@@ -26,7 +26,17 @@ I am experienced web developer based in Warsaw, Poland. Have 2+ years of experie
 
 ## Work experience
 
-⏳️ Nov 2021 - Present</br>
+⏳️ Mar 2021 - Present</br>
+💼 **Software Engineer**</br>
+🏢 [***Valetax***](https://valetax.com/)</br>
+- Spearheaded frontend development for a startup in forex trading
+- Developed an intuitive account and wallet dashboard
+- Integrated financial systems for deposits and withdrawals
+- Utilized TypeScript and JavaScript for React application
+- Actively resolved bugs and supported project
+- Collaborated closely with the project team and clients
+
+⏳️ Nov 2021 - Mar 2023</br>
 💼 **Software Engineer**</br>
 🏢 [***EPAM Systems***](https://www.epam.com/)</br>
 ℹ️ <sub>American company that specializes in service development, digital platform engineering, and digital product design</sub>
